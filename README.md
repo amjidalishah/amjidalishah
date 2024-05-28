@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amjidalishah
 - 👀 I’m interested in node js applications
-- 🌱 I’m working as full stack node developer for last two years
+- 🌱 I’m working as full stack web developer for the last 6 years
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
